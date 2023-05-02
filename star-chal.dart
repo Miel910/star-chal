@@ -8,7 +8,6 @@ void main() {
       star += "*";
     } else if (s > 0) {
       print(star.substring(star.length - s));
-      s--;
     }
   }
 }
