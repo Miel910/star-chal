@@ -1,6 +1,6 @@
 void main() {
   var star = "*";
-  // int s = 3;
+  // var s = 3;
 
   for (int i = 0; i < 9; i++) {
     if (i < 4) {
